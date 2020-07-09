@@ -1,0 +1,28 @@
+{
+  "data":[
+    {
+      "id":"1",
+      "foodName":"samosha",
+      "price":"50",
+      "rating":"2"
+    },
+    {
+      "id":"2",
+      "foodName":"jalebi",
+      "price":"400",
+      "rating":"2"
+    },
+    {
+      "id":"3",
+      "foodName":"halwa",
+      "price":"20",
+      "rating":"2"
+    },
+    {
+      "id":"3",
+      "foodName":"poodi",
+      "price":"500",
+      "rating":"2"
+    }
+  ]
+}
